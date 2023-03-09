@@ -1,7 +1,6 @@
 <h1 align="center">Hey, you found me! I'm Justin!</h1>
 <h3 align="center">I am an open-minded, collaborative software engineer who finds success in creating and delivering efficient, well-crafted products.</h3>
 
-![2022-mushroom-greeting](https://media.giphy.com/media/2rX60q1hGGu7xvS1Hi/giphy.gif)
 
 - 🌱 I’m currently learning **back-end development**
 
